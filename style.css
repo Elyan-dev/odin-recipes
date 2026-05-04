@@ -1,0 +1,27 @@
+body {
+    background-color: greenyellow;
+    color: purple;
+}
+
+p, ol{
+    background-color: yellowgreen;
+    border-style: solid;
+}
+
+
+#homeul {
+    background-color: aliceblue;
+    border-style: solid;
+    margin-top: -10px;
+}
+
+.title {
+    background-color: blanchedalmond;
+    color: purple;
+    border-style: dotted;
+}
+
+.ing {
+    background-color: rgb(228, 164, 87);
+    border-style: solid;
+}
